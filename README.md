@@ -1,6 +1,6 @@
-# 👋 Hello There!
+👋 Hello there, I'm Alexandru Nedieanu!
 
-## 🌟 About Me
+🌟 Some things about me
 
 - **👨‍💻 Profession**: Full Stack Engineer
 
