@@ -1,12 +1,13 @@
-👋 Hello there!
+# 👋 Hello There!
 
-🌟 About Me
-👨‍💻 Profession: Full Stack Engineer
+## 🌟 About Me
 
-💡 Interests: Frontend and Backend development, API's, Databases, and SQL queries.
+- **👨‍💻 Profession**: Full Stack Engineer
 
-🌱 Currently Learning: I'm currently learning more about Web development.
+- **💡 Interests**: Frontend and Backend development, API's, Databases, and SQL queries.
 
-📩 You can reach me at: nedieanualex@gmail.com
+- **🌱 Currently Learning**: I'm currently learning more about Web development.
 
-🎨 Hobbies: Reading, Gaming, watching movies... 🍿
+- **📩 You can reach me at**: [nedieanualex@gmail.com](mailto:nedieanualex@gmail.com)
+
+- **🎨 Hobbies**: Reading, Gaming, watching movies... 🍿
